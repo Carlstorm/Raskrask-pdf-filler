@@ -1,0 +1,20 @@
+{
+  "name": "RaskRask_gavekort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --testTimeout 10000"
+  },
+  "dependencies": {
+    "atob": "^2.1.2",
+    "buffer": "^5.6.0",
+    "file-system": "^2.2.2",
+    "pdf-lib": "^1.11.1",
+    "zapier-platform-core": "10.1.1"
+  },
+  "devDependencies": {
+    "jest": "^25.5.3"
+  },
+  "private": true
+}
